@@ -1,10 +1,14 @@
 {
-  "name": "n8n-nodes-oracle-no-metadata",
-  "version": "1.1.12",
-  "description": "Node para conexão com Oracle Database (sem metadata)",
+  "name": "n8n-oracle-query-node",
+  "version": "1.0.0",
+  "description": "Node for Oracle Database with parameterization",
   "keywords": [
     "n8n-community-node-package",
-    "oracle"
+    "oracle",
+    "query",
+    "node",
+    "n8n",
+    "database"
   ],
   "license": "MIT",
   "homepage": "",

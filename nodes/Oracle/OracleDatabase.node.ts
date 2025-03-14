@@ -278,7 +278,7 @@ export class OracleDatabase implements INodeType {
       }
     }
 
-    // Returns the items we built
+    // Returns the items
     return [returnItems];
   }
 }

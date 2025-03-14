@@ -1,4 +1,4 @@
-# **n8n Oracle Database Node with Parameterization**
+# **n8n Oracle Query Node**
 
 This is a **custom node** for [n8n](https://n8n.io/) that allows executing **parameterized queries** on **Oracle Database**, providing more flexibility and security.
 
