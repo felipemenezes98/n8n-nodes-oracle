@@ -1,5 +1,5 @@
 {
-  "name": "n8n-oracle-query-node",
+  "name": "n8n-nodes-oracle",
   "version": "1.0.0",
   "description": "Node for Oracle Database with parameterization",
   "keywords": [
